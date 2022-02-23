@@ -1,0 +1,188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exact and particular account of the defeat given to the rebels in the county of Cork by the Lord Justice Cox and Coll. Hastings, with 2000 of the army and militia and of the Lord Lisburn's cutting off a party of the French and Irish horse near Lanesborough Pass / in a letter from Dublin, June the 25.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38882</idno>
+            <idno type="STC">Wing E3601</idno>
+            <idno type="STC">ESTC R36211</idno>
+            <idno type="EEBO-CITATION">15618789</idno>
+            <idno type="OCLC">ocm 15618789</idno>
+            <idno type="VID">104182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104182)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1592:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exact and particular account of the defeat given to the rebels in the county of Cork by the Lord Justice Cox and Coll. Hastings, with 2000 of the army and militia and of the Lord Lisburn's cutting off a party of the French and Irish horse near Lanesborough Pass / in a letter from Dublin, June the 25.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by W. Bonny ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained with loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  War of 1689-1691.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104182:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <head>An Exact and Particular ACCOUNT Of the Defeat given to the Rebels in the County of <hi>Cork,</hi> by the Lord Juſtice <hi>Cox,</hi> and Coll. <hi>Haſtings,</hi> with 2000 of the Army and Militia? And of the Lord <hi>Lisburn</hi>'s cutting off a Party of the <hi>French</hi> and <hi>Iriſh</hi> Horſe, near <hi>Lanesborough</hi> Paſs. <date>
+                  <add>2. July. 1691.</add>
+               </date>
+            </head>
+            <head type="sub">In a Letter from <hi>Dublin,</hi> 
+               <date>
+                  <hi>June</hi> the 25.</date>
+            </head>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licenſed,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>July</hi> the <hi>1ſt. 1691.</hi>
+                              </date>
+                           </dateline> 
+                           <signed> J. F.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>ACcording to my promiſe in my laſt, of the 23d, I herewith ſend you the Perticulars of the late Actions of the Lord Juſtice <hi>Cox,</hi> and Coll. <hi>Haſtings,</hi> in the County of <hi>Cork;</hi> with the late Action of Dean <hi>Synge,</hi> and what other Material Actions has happened ſince the taking the Forts of the <hi>Engliſh</hi> Town of <hi>Athlone.</hi>
+            </p>
+            <p>
+               <hi>Cork June</hi> 21ſt. Mr Juſtice <hi>Cox,</hi> Gover<g ref="char:EOLhyphen"/>nour of the County of <hi>Cork,</hi> went to <hi>Inni<g ref="char:EOLhyphen"/>kean</hi> on <hi>Wedneſday</hi> laſt, and carried with him one of their Majeſties Engineers, by whoſe advice he cauſed part of the Town to be Fortified, and placed a Garriſon of the Mili<g ref="char:EOLhyphen"/>tia, as well in the Town, as in the Caſtle, which being done, he went to view <hi>Dunma<g ref="char:EOLhyphen"/>naway.,</hi> which he found totally Demolliſhed; and from thence detatcht a party of 250 of the Militia, under the command of Collonel <hi>Townſend</hi> to <hi>Bantry,</hi> where on <hi>Sunday</hi> laſt, they took a conſiderable prey of Cattle, and abundance of Plunder, Kill'd above 100 of the Rebels, and took ſeveral Armes, without any loſs, except 4 Horſes, which were Shot.—Collonel <hi>Haſtings</hi> Governour of <hi>Cork,</hi> has Siezed upon <hi>Drumanneen</hi> a very conſider<g ref="char:EOLhyphen"/>able Poſt, near the <hi>Black-Water,</hi> which is now Garriſoned by a good number, both of the Army and Militia, and is about a Mile diſtant from <hi>Ballyelough.</hi>
+            </p>
+            <p>The Garriſon at <hi>Fermoy</hi> on the 18th. made an Incurſipn into the Borders of the County of <hi>Lymerick,</hi> took 120 large Cows, and ſome Armes, and Kill'd ſome of the Re<g ref="char:EOLhyphen"/>bels.—Yeſterday Collonel <hi>Haſtings,</hi> with 200 of the Army, Horſe and Dragoons, and 500 Militia Dragoons went to <hi>Ballynagooly</hi> with intent to joyn 3 or 400 more of the Army and Militia that were there abouts, and at <hi>Drumaneenn,</hi> and together to make an In<g ref="char:EOLhyphen"/>curſion into the Enemies Quarters, and it happned ſo, that Major <hi>Culliford</hi> with 120 of Collonel <hi>Mathews</hi>'s Dragoons, and 500 Militia went the Euening before to <hi>New-Market;</hi> in purſuit of 2 Troopes of <hi>Carrolls</hi> Dragoons, which he overtook, cut in pieces, took 30 of their Horſes, and a prey of 200 Cows, which Encouraged him to go 67 Miles further to <hi>Slevelogher.</hi> But the Rebels having lald an Ambuſh of 6 or 700 Men, at his re<g ref="char:EOLhyphen"/>turn fell upon him, and though he had the goog luck to kill an Officer and 60 of the Enemy, yet being overpowered by their numbers he was forced to retreat, and upon Examination, we find about 70 Men miſ<g ref="char:EOLhyphen"/>ſing, whereof we ſince find 13 are Priſoners, 43 got to the Caſtle of <hi>Drumagh,</hi> near <hi>Glanturk</hi> (which they maintain and have there the 30 Horſes, which they took from the Enemy,) <gap reason="illegible: damage" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we hope the other 14 Men are ſafe, and will ſpeedily return.—Coll. <hi>Haſtings,</hi> upon the News thereof, Marcht to favour their Re<g ref="char:EOLhyphen"/>treat, and c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me time enough to kill an Offi<g ref="char:EOLhyphen"/>cer, and 50 of the Rebels.—This Morning Collonel <hi>Haſtings</hi> Marched from <hi>Ballinagooly,</hi> to relieve the aforeſaid <hi>Caſtle,</hi> he had with him 1003 Men: So we doubt not to have a good account of the Enemy before he returns.</p>
+            <p>
+               <hi>Kildare, June</hi> 23d. Dr. <hi>Synge,</hi> our Dean, marched the other day at the Head of Capt. <hi>Baggot</hi>'s D<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>oons, and joyn'd with Capt. <hi>White,</hi> and <hi>Capt. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> near the Bogg, at <unclear>
+                  <hi>Edenaerry</hi>
+               </unclear> whe<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Partys of Rebels, the Horſe being poſted, the Foot f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>om the <hi>News,</hi> went into the Bogg on the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſide, thoſe of <hi>Kil<g ref="char:EOLhyphen"/>mege</hi> from theirs <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Ka<g ref="char:EOLhyphen"/>thangan,</hi> by agreement they were all at their Poſts by the Break of Day: The <hi>Wicklow</hi> Men, commanded by Lieut. <hi>Hamiltn,</hi> and Enſign <hi>Hawkſhead,</hi> happened firſt to fall upon them, in number about 60, whom they attackt and made fly, in their flight they divided into ſe<g ref="char:EOLhyphen"/>veral Parties, and <hi>Hamilton</hi> having before put his Men into three Diviſions, each of them met with a Party of the Rogues. <hi>Hamilton</hi> at firſt firing kill'd 13 on the ſpot, and then in the Purſuit, drove them on Capt. <hi>Chabe<g ref="char:EOLhyphen"/>nor</hi>'s Horſe, who gave them a warm reception, and beat them back into the Bogg, killing 3, where <hi>Hamilton</hi> receiv'd them again, and kill'd 5 more, they then ſcoured to that ſide of the Bogg where Dean <hi>Synge,</hi> and Capt. <hi>Baggot</hi>'s Dragoons were, thinking it open, but the Dragoons ſoon diſmounted, which cauſed the Rebels to make off again into the Bogg, but met with one Corporal <hi>Howard,</hi> and 20 of <hi>Hamilton</hi>'s Party, who ſoon killed 8 more, (4 of them with his own hand) the Rebels made all poſſible haſte to get from theſe warm Salutations, and the Corporal ſtill purſued them towards <hi>Clonbullock,</hi> where they met with one Mr. <hi>James Purefoy,</hi> with half a do<g ref="char:EOLhyphen"/>zen Horſe from <hi>Ballylaoken,</hi> who killed 3 more. The remainder of the Party thus broke, and ſhattered, got into the thick Woods, into which our Men followed them, but could not find them: In all theſe Actions, every Man ſhewed his diligence and readi<g ref="char:EOLhyphen"/>neſs, eſpecially Dean <hi>Synge,</hi> Lieutenant <hi>Ha<g ref="char:EOLhyphen"/>milton,</hi> and his Enſign <hi>Hawkſhead.</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <dateline>From the Camp at <hi>Athlone,</hi> on the Brinks of the <hi>Shannon.</hi>
+                  </dateline>
+               </opener>
+               <p>The Lord <hi>Lisburn,</hi> being ordered by the Gener<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> for <hi>Lanes<g ref="char:EOLhyphen"/>borough;</hi> he marched from the Camp on <hi>Tueſday</hi> Night, with 2000 detatched Foot, and 500 Horſe and Dragoons; and in the way, near that place, his advanc'd Parties met with a de<g ref="char:EOLhyphen"/>tach'd Party of the Enemy, conſiſting of above 100 of their beſt Horſe, Commanded by a <hi>French</hi> Lieutenant Collonel. Our Men attack'd them, but on the firſt Firing they fled, and, not<g ref="char:EOLhyphen"/>withſtanding all that the <hi>French</hi> Officer could do, they could not be perſwaded to ralley, our Men being well Hors'd, purſuing them cloſe, many of them, for haſte, rode into the <hi>River,</hi> and were Drown'd; ſeveral others our Men kill'd in the purſuit as well as at their firſt Firing.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>W. Bonny,</hi> in <hi>Little-Britain,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
